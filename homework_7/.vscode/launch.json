@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run homework 7 task 1",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=MAIN_PAGE=PAINTER",
+            ],
+        },
+        {
+            "name": "Run homework 7 task 2",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=MAIN_PAGE=PROGRESS_INDICATOR",
+            ],
+        },
+        {
+            "name": "Run homework 7 task 3",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=MAIN_PAGE=CLAP",
+            ],
+        },
+    ]
+}

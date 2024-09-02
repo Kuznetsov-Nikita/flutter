@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run My App",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=MAIN_PAGE_TITLE=My App",
+                "--dart-define=THEME_COLOR=#ff2701",
+            ]
+        },
+        {
+            "name": "Run Hello World",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=MAIN_PAGE_TITLE=Hello, World!",
+                "--dart-define=THEME_COLOR=#ffc0cb",
+            ]
+        },
+        {
+            "name": "Run Images Carousel",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=MAIN_PAGE_TITLE=Images Carousel",
+                "--dart-define=THEME_COLOR=#008000",
+            ]
+        },
+    ]
+}

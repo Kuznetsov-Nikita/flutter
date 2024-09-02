@@ -1,0 +1,38 @@
+{
+    "@@locale" : "en",
+
+    "greeting": "Welcome to Ibiza",
+    "@greeting": {
+        "description": "Main page greeting title"
+    },
+
+    "institutions": "Institutions",
+    "@institutions": {
+        "description": "Institutions navigation bar item title"
+    },
+
+    "hotels": "Hotels",
+    "@hotels": {
+        "description": "Hotels navigation bar item title"
+    },
+
+    "beaches": "Beaches",
+    "@beaches": {
+        "description": "Beaches navigation bar item title"
+    },
+
+    "inDetail": "IN DETAIL",
+    "@inDetail": {
+        "description": "In detail button text"
+    },
+
+    "newsTitle": "Opening of a new beach this summer",
+    "@newsTitle": {
+        "description": "Title for a news article"
+    },
+
+    "newsDescription": "This summer, the opening of a new elite beach of one hundred thousand stars will take place. Everyone can appreciate this creation of engineering and water thought. The ceremony...",
+    "@newsDescription": {
+        "description": "Description for a news article"
+    }
+}
